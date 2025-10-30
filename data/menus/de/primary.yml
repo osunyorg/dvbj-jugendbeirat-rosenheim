@@ -15,13 +15,6 @@ items:
   children: []
   path: "/organizations"
   file: content/de/organizations/_index.html
-- title: Expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/exhibitions"
-  file: content/de/exhibitions/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
@@ -36,4 +29,11 @@ items:
   children: []
   path: "/posts"
   file: content/de/posts/_index.html
+- title: Expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/exhibitions"
+  file: content/de/exhibitions/_index.html
 
