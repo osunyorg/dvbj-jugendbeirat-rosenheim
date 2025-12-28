@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/exhibitions"
-  file: content/de/exhibitions/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -36,4 +29,11 @@ items:
   children: []
   path: "/events"
   file: content/de/events/_index.html
+- title: Expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/exhibitions"
+  file: content/de/exhibitions/_index.html
 
